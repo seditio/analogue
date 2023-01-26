@@ -78,6 +78,56 @@ $R['admin_icon_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users.png"
 $R['admin_icon_usergroup0'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users-off.png" title="'.$L['Group0'].'" alt="'.$L['Group0'].'" />';
 $R['admin_icon_usergroup1'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users.png" title="'.$L['Group1'].'" alt="'.$L['Group1'].'" />';
 
+$R['icon_extension_default'] = '<img src="'.$cfg['icons_dir'].'/analogue/default.png" alt="" />';
+
+// Modules
+$R['icon_module_forums'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/forums.png" alt="" />';
+$R['icon_module_index'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/index.png" alt="" />';
+$R['icon_module_page'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/page.png" alt="" />';
+$R['icon_module_pfs'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/pfs.png" alt="" />';
+$R['icon_module_pm'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/pm.png" alt="" />';
+$R['icon_module_polls'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/polls.png" alt="" />';
+$R['icon_module_rss'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/rss.png" alt="" />';
+$R['icon_module_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/users.png" alt="" />';
+
+// Plugins
+$R['icon_plug_adminstats'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminstats.png" alt="" />';
+$R['icon_plug_attach2'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/attach2.png" alt="" />';
+$R['icon_plug_banlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/banlist.png" alt="" />';
+$R['icon_plug_bbcode'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/bbcode.png" alt="" />';
+$R['icon_plug_bootstrap'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/bootstrap.png" alt="" />';
+$R['icon_plug_catlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/catlist.png" alt="" />';
+$R['icon_plug_ckeditor'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/ckeditor.png" alt="" />';
+$R['icon_plug_cleaner'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/cleaner.png" alt="" />';
+$R['icon_plug_comments'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/comments.png" alt="" />';
+$R['icon_plug_contact'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/contact.png" alt="" />';
+$R['icon_plug_csv_import'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv_import.png" alt="" />';
+$R['icon_plug_customlogs'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/customlogs.png" alt="" />';
+$R['icon_plug_fonts'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/fonts.png" alt="" />';
+$R['icon_plug_hiddengroups'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/hiddengroups.png" alt="" />';
+$R['icon_plug_hits'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/hits.png" alt="" />';
+$R['icon_plug_html'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/html.png" alt="" />';
+$R['icon_plug_htmlpurifier'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/htmlpurifier.png" alt="" />';
+$R['icon_plug_i18n'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/i18n.png" alt="" />';
+$R['icon_plug_icons'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/icons.png" alt="" />';
+$R['icon_plug_ipsearch'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/ipsearch.png" alt="" />';
+$R['icon_plug_listcount'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/listcount.png" alt="" />';
+$R['icon_plug_markup'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/markup.png" alt="" />';
+$R['icon_plug_mcaptcha'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/mcaptcha.png" alt="" />';
+$R['icon_plug_pagecount'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/pagecount.png" alt="" />';
+$R['icon_plug_pagelist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/pagelist.png" alt="" />';
+$R['icon_plug_ratings'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/ratings.png" alt="" />';
+$R['icon_plug_reading_time'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/reading_time.png" alt="" />';
+$R['icon_plug_referers'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/referers.png" alt="" />';
+$R['icon_plug_search'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/search.png" alt="" />';
+$R['icon_plug_sitemap'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/sitemap.png" alt="" />';
+$R['icon_plug_statistics'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/statistics.png" alt="" />';
+$R['icon_plug_tags'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/tags.png" alt="" />';
+$R['icon_plug_trashcan'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/trashcan.png" alt="" />';
+$R['icon_plug_urleditor'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/urleditor.png" alt="" />';
+$R['icon_plug_userimages'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/userimages.png" alt="" />';
+$R['icon_plug_whosonline'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/whosonline.png" alt="" />';
+
 // $R['admin_icon_allow'] = '<img class="icon" src="system/admin/img/allow.png" alt="" />'; // need to change for checkbox?
 // $R['admin_icon_allow_locked'] = '<img class="icon" src="system/admin/img/allow_locked.png" alt="" />'; // need to change for checkbox?
 // $R['admin_icon_deny'] = '<img class="icon" src="system/admin/img/deny.png" alt="" />'; // need to change for checkbox?
