@@ -24,7 +24,7 @@ $R['icon_right'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow.png" alt="
 $R['icon_left'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-180.png" alt="" />';
 $R['icon_up'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-90.png" alt="" />';
 $R['icon_vert_active']['desc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity.png" alt="" />';
-$R['icon_vert_active']['asc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity-descending.png" alt="" />';;
+$R['icon_vert_active']['asc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity-descending.png" alt="" />';
 
 /**
  * Main Icons
@@ -78,9 +78,22 @@ $R['admin_icon_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users.png"
 $R['admin_icon_usergroup0'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users-off.png" title="'.$L['Group0'].'" alt="'.$L['Group0'].'" />';
 $R['admin_icon_usergroup1'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users.png" title="'.$L['Group1'].'" alt="'.$L['Group1'].'" />';
 
-$R['icon_extension_default'] = '<img src="'.$cfg['icons_dir'].'/analogue/default.png" alt="" />';
+// Default Icon
+$R['admin_icon_extension_default'] = '<img src="'.$cfg['icons_dir'].'/analogue/default.png" alt="" />';
 
-// Modules
+// Core Config
+
+$R['icon_cfg_info'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/info.png" alt="" />';
+$R['icon_cfg_locale'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/locale.png" alt="" />';
+$R['icon_cfg_main'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/main.png" alt="" />';
+$R['icon_cfg_menus'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/menus.png" alt="" />';
+$R['icon_cfg_performance'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/performance.png" alt="" />';
+$R['icon_cfg_security'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/security.png" alt="" />';
+$R['icon_cfg_sessions'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/sessions.png" alt="" />';
+$R['icon_cfg_theme'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/theme.png" alt="" />';
+$R['icon_cfg_title'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/title.png" alt="" />';
+
+// 1. Modules
 $R['icon_module_forums'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/forums.png" alt="" />';
 $R['icon_module_index'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/index.png" alt="" />';
 $R['icon_module_page'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/page.png" alt="" />';
@@ -90,7 +103,7 @@ $R['icon_module_polls'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/poll
 $R['icon_module_rss'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/rss.png" alt="" />';
 $R['icon_module_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/users.png" alt="" />';
 
-// Plugins
+// 2. Plugins
 $R['icon_plug_adminstats'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminstats.png" alt="" />';
 $R['icon_plug_attach2'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/attach2.png" alt="" />';
 $R['icon_plug_banlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/banlist.png" alt="" />';
