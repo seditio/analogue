@@ -22,7 +22,7 @@ defined('COT_CODE') or die('Wrong URL');
 $R['icon_down'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-270.png" alt="" />';
 $R['icon_right'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow.png" alt="" />';
 $R['icon_left'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-180.png" alt="" />';
-$R['icon_up'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-90.png" alt="" />';
+$R['icon_up'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-090.png" alt="" />';
 $R['icon_vert_active']['desc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity.png" alt="" />';
 $R['icon_vert_active']['asc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity-descending.png" alt="" />';
 
@@ -98,12 +98,13 @@ $R['icon_module_forums'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/for
 $R['icon_module_index'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/index.png" alt="" />';
 $R['icon_module_page'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/page.png" alt="" />';
 $R['icon_module_pfs'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/pfs.png" alt="" />';
-$R['icon_module_pm'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/pm.png" alt="" />';
+$R['icon_module_pm'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/pm/pm.png" alt="" />';
 $R['icon_module_polls'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/polls.png" alt="" />';
 $R['icon_module_rss'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/rss.png" alt="" />';
 $R['icon_module_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/users.png" alt="" />';
 
 // 2. Plugins
+$R['icon_plug_admindesktops'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/admindesktops.png" alt="" />';
 $R['icon_plug_adminstats'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminstats.png" alt="" />';
 $R['icon_plug_attach2'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/attach2.png" alt="" />';
 $R['icon_plug_banlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/banlist.png" alt="" />';
@@ -140,6 +141,12 @@ $R['icon_plug_trashcan'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/tra
 $R['icon_plug_urleditor'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/urleditor.png" alt="" />';
 $R['icon_plug_userimages'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/userimages.png" alt="" />';
 $R['icon_plug_whosonline'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/whosonline.png" alt="" />';
+
+// Custom Extras
+$R['admin_icon_cache'] = '<img src="'.$cfg['icons_dir'].'/analogue/new/database-network.png" alt="" />';
+$R['admin_icon_cache_disk'] = '<img src="'.$cfg['icons_dir'].'/analogue/new/drive-network.png" alt="" />';
+$R['admin_icon_log'] = '<img src="'.$cfg['icons_dir'].'/analogue/new/radar.png" alt="" />';
+
 
 // $R['admin_icon_allow'] = '<img class="icon" src="system/admin/img/allow.png" alt="" />'; // need to change for checkbox?
 // $R['admin_icon_allow_locked'] = '<img class="icon" src="system/admin/img/allow_locked.png" alt="" />'; // need to change for checkbox?
