@@ -88,6 +88,7 @@ $R['icon_cfg_locale'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/locale.png
 $R['icon_cfg_main'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/main.png" alt="" />';
 $R['icon_cfg_menus'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/menus.png" alt="" />';
 $R['icon_cfg_performance'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/performance.png" alt="" />';
+$R['icon_cfg_phpinfo'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/server.png" alt="" />';
 $R['icon_cfg_security'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/security.png" alt="" />';
 $R['icon_cfg_sessions'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/sessions.png" alt="" />';
 $R['icon_cfg_theme'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/theme.png" alt="" />';
@@ -104,6 +105,7 @@ $R['icon_module_rss'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/rss.pn
 $R['icon_module_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/users.png" alt="" />';
 
 // 2. Plugins
+$R['icon_plug_adminboard'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminboard.png" alt="" />';
 $R['icon_plug_admindesktops'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/admindesktops.png" alt="" />';
 $R['icon_plug_adminstats'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminstats.png" alt="" />';
 $R['icon_plug_attach2'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/attach2.png" alt="" />';
