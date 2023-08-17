@@ -115,6 +115,7 @@ $R['icon_plug_bootstrap'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/bo
 $R['icon_plug_catlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/catlist.png" alt="" />';
 $R['icon_plug_ckeditor'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/ckeditor.png" alt="" />';
 $R['icon_plug_cleaner'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/cleaner.png" alt="" />';
+$R['icon_plug_comlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/comments.png" alt="" />';
 $R['icon_plug_comments'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/comments.png" alt="" />';
 $R['icon_plug_contact'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/contact.png" alt="" />';
 $R['icon_plug_csv_import'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv_import.png" alt="" />';
