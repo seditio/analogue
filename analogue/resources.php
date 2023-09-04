@@ -118,8 +118,8 @@ $R['icon_plug_cleaner'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/clea
 $R['icon_plug_comlist'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/comments.png" alt="" />';
 $R['icon_plug_comments'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/comments.png" alt="" />';
 $R['icon_plug_contact'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/contact.png" alt="" />';
-$R['icon_plug_csv'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv_import.png" alt="" />';
-$R['icon_plug_csv_import'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv_import.png" alt="" />';
+$R['icon_plug_csv'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv.png" alt="" />';
+$R['icon_plug_csv_import'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/csv.png" alt="" />';
 $R['icon_plug_customlogs'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/customlogs.png" alt="" />';
 $R['icon_plug_fonts'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/fonts.png" alt="" />';
 $R['icon_plug_hiddengroups'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/hiddengroups.png" alt="" />';
