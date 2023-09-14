@@ -46,7 +46,7 @@ $R['icon_unread'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/document--plus.
  * Stars & Votes
  */
 
-$R['icon_rating_stars'] = '<img src="' . $cfg['icons_dir'] . '/analogue/24/stars/stars{$val}.png" alt="{$val}" />';
+$R['icon_rating_stars'] = '<img src="' . $cfg['icons_dir'] . '/analogue/stars/24/stars{$val}.png" alt="{$val}" />';
 $R['icon_stars'] = '<img src="' . $cfg['icons_dir'] . '/analogue/stars/24/stars{$val}.png" alt="{$val}" />';
 
 /**
