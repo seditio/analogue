@@ -43,6 +43,13 @@ $R['icon_undo'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-curve-180-l
 $R['icon_unread'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/document--plus.png" alt="" />';
 
 /**
+ * Stars & Votes
+ */
+
+$R['icon_rating_stars'] = '<img src="' . $cfg['icons_dir'] . '/analogue/24/stars/stars{$val}.png" alt="{$val}" />';
+$R['icon_stars'] = '<img src="' . $cfg['icons_dir'] . '/analogue/stars/24/stars{$val}.png" alt="{$val}" />';
+
+/**
  * Admin Icons
  */
 
@@ -82,7 +89,6 @@ $R['admin_icon_usergroup1'] = '<img src="'.$cfg['icons_dir'].'/analogue/32/users
 $R['admin_icon_extension_default'] = '<img src="'.$cfg['icons_dir'].'/analogue/default.png" alt="" />';
 
 // Core Config
-
 $R['icon_cfg_info'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/info.png" alt="" />';
 $R['icon_cfg_locale'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/locale.png" alt="" />';
 $R['icon_cfg_main'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/main.png" alt="" />';
