@@ -111,6 +111,7 @@ $R['icon_module_rss'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/rss.pn
 $R['icon_module_users'] = '<img src="'.$cfg['icons_dir'].'/analogue/modules/users.png" alt="" />';
 
 // 2. Plugins
+$R['icon_plug_admincharts'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/admincharts.png" alt="" />';
 $R['icon_plug_adminboard'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminboard.png" alt="" />';
 $R['icon_plug_admindesktops'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/admindesktops.png" alt="" />';
 $R['icon_plug_adminstats'] = '<img src="'.$cfg['icons_dir'].'/analogue/plugins/adminstats.png" alt="" />';
