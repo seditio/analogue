@@ -23,8 +23,8 @@ $R['icon_down'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-270.png" al
 $R['icon_right'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow.png" alt="" />';
 $R['icon_left'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-180.png" alt="" />';
 $R['icon_up'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-090.png" alt="" />';
-$R['icon_vert_active']['desc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity.png" alt="" />';
-$R['icon_vert_active']['asc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/sort-quantity-descending.png" alt="" />';
+$R['icon_vert_active']['desc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-270-active.png" alt="" />';
+$R['icon_vert_active']['asc'] = '<img src="'.$cfg['icons_dir'].'/analogue/16/arrow-090-active.png" alt="" />';
 
 /**
  * Main Icons
