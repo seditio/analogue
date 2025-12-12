@@ -94,7 +94,7 @@ $R['icon_cfg_locale'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/locale.png
 $R['icon_cfg_main'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/main.png" alt="" />';
 $R['icon_cfg_menus'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/menus.png" alt="" />';
 $R['icon_cfg_performance'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/performance.png" alt="" />';
-$R['icon_cfg_phpinfo'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/server.png" alt="" />';
+$R['icon_cfg_phpinfo'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/php.png" alt="" />';
 $R['icon_cfg_security'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/security.png" alt="" />';
 $R['icon_cfg_sessions'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/sessions.png" alt="" />';
 $R['icon_cfg_theme'] = '<img src="'.$cfg['icons_dir'].'/analogue/cfg/theme.png" alt="" />';
